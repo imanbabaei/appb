@@ -6,7 +6,7 @@ dependencies:
   - appmode
   - ipyvuetify
   - ipywidgets
-  - gekko
+#   - gekko
   - numpy
   - pandas
   - plotly
