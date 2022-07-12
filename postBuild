@@ -4,3 +4,4 @@
 # jupyter serverextension enable --py --sys-prefix appmode
 pip install gekko
 pip install seeq
+pip install keras-tuner==1.0.4
