@@ -10,5 +10,5 @@ dependencies:
   - pandas
   - plotly
   - scipy
-  - tensorflow
-  - keras-tuner
+  - tensorflow>=2.1
+  - keras-tuner==1.0.4
