@@ -2,7 +2,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - ipyvolume
   - appmode
   - ipyvuetify
   - ipywidgets
