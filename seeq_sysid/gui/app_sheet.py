@@ -6,11 +6,12 @@ from pandas import DataFrame, to_datetime
 from ._backend import push_formula, push_signal
 
 from .figure_table import FigureTable
-from .panels import LeftPanel, ARXPanel, SSPanel
+from .panels import LeftPanel, ARXPanel, SSPanel, NNPanel
 
 from seeq_sysid.model.base import Model
 from seeq_sysid.model.arx import ARX
 from seeq_sysid.model.ss import Subspace
+from seeq_sysid.model.nn import NN
 
 from .setup import Setup
 from .app_bar import AppBar
