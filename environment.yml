@@ -3,3 +3,11 @@ channels:
 dependencies:
   - ipyvolume
   - appmode
+  - ipyvuetify
+  - ipywidgets
+  - gekko
+  - numpy
+  - pandas
+  - plotly
+  - seeq
+  - scipy
