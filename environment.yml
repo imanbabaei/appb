@@ -5,9 +5,9 @@ dependencies:
   - appmode
   - ipyvuetify
   - ipywidgets
-#   - gekko
-#   - numpy
+  - gekko
+  - numpy
   - pandas
-#   - plotly
-#   - seeq
-#   - scipy
+  - plotly
+  - seeq
+  - scipy
