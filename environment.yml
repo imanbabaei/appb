@@ -1,5 +1,6 @@
 channels:
   - conda-forge
+  - defaults
 dependencies:
   - ipyvolume
   - appmode
@@ -9,5 +10,5 @@ dependencies:
   - numpy
   - pandas
   - plotly
-  - seeq
+#   - seeq
   - scipy
